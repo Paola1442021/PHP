@@ -1,0 +1,16 @@
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex; /* Hace que los elementos hijos se muestren en línea */
+}
+
+nav li {
+    margin-right: 15px; /* Espaciado entre elementos del menú */
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
